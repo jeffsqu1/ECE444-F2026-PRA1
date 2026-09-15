@@ -7,3 +7,6 @@ Initial commit
 
 #Merge Conflict Resolution
 ![alt text](merge_res.png)
+
+#Utils and Utils_tests implementation
+![alt text](utils_log.png)
